@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Flutter, Python & Artificial intelligence.**
 
-- 👨‍💻 All of my projects are available at [mahamadulhasanshaikat.github.io](mahamadulhasanshaikat.github.io)
+- 👨‍💻 All of my projects are available at [https://mahamadulhasanshaikat.github.io/](https://mahamadulhasanshaikat.github.io/)
 
 - 📫 How to reach me **md.shaikat95@gmail.com**
 
