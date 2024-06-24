@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahamadulhasanshaikat&label=Profile%20views&color=0e75b6&style=flat" alt="mahamadulhasanshaikat" /> </p>
 
-- 🌱 I’m currently learning **Flutter, Python & Artificial intelligence.**
+- 🌱 I’m currently learning **Flutter, Python & Machine learning.**
 
 - 👨‍💻 All of my projects are available at [https://mahamadulhasanshaikat.github.io/](https://mahamadulhasanshaikat.github.io/)
 
