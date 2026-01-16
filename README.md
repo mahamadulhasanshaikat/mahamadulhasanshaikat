@@ -1,6 +1,6 @@
 ![logo](https://github.com/mahamadulhasanshaikat/mahamadulhasanshaikat/blob/main/Github%20Banner.png)
-<h1 align="center">Hi 👋, I'm MD MAHAMADUL HASAN SHAIKAT</h1>
-<h3 align="center">ReactJS | Flutter | Android | Python | Machine Learning (ML) | Ex. Research Assistant |</h3>
+<h1 align="center">Hi 👋, I'm MAHAMADUL HASAN SHAIKAT</h1>
+<h3 align="center">Software Developer | ReactJS | Flutter (Android) | HTML | Tailwind CSS | Python | JavaScript | Ex. Research Assistant |</h3>
 
 <img align="right" alt="coding" width="300" src="https://static.wixstatic.com/media/b313a9_89ebec0c5f384c65a9551f0c1ec18ca9~mv2.gif">
 
