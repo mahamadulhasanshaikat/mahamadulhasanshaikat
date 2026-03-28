@@ -1,18 +1,16 @@
 ![logo](https://github.com/mahamadulhasanshaikat/mahamadulhasanshaikat/blob/main/Github%20Banner.png)
 <h1 align="center">Hi 👋, I'm MAHAMADUL HASAN SHAIKAT</h1>
-<h3 align="center">Software Developer | ReactJS | Flutter (Android) | HTML | Tailwind CSS | Python | JavaScript | Ex. Research Assistant |</h3>
+<h3 align="center">Software Developer | Flutter | Next.js | HTML | Tailwind CSS | Python | Ex. Research Assistant |</h3>
 
 <img align="right" alt="coding" width="300" src="https://static.wixstatic.com/media/b313a9_89ebec0c5f384c65a9551f0c1ec18ca9~mv2.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahamadulhasanshaikat&label=Profile%20views&color=0e75b6&style=flat" alt="mahamadulhasanshaikat" /> </p>
 
-- 🌱 I’m currently learning **Flutter, Python & Machine learning.**
+- 🌱 I’m currently learning **Flutter, Python & NextJS.**
 
 - 👨‍💻 All of my projects are available at [https://mhshaikat.vercel.app/](https://mhshaikat.vercel.app/)
 
 - 📫 How to reach me **md.shaikat95@gmail.com**
-
-- ⚡ Fun fact **I think I am Funny😎**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
