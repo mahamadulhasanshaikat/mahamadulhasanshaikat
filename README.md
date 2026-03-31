@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Flutter, Python & NextJS.**
 
-- 👨‍💻 All of my projects are available at [https://mhshaikat.vercel.app/](https://mhshaikat.vercel.app/)
+- 👨‍💻 All of my projects are available at <a href="https://mhshaikat.vercel.app/" target="_blank">mhshaikat.vercel.app</a>
 
 - 📫 How to reach me **md.shaikat95@gmail.com**
 
