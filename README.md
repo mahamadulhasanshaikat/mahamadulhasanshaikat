@@ -6,10 +6,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahamadulhasanshaikat&label=Profile%20views&color=0e75b6&style=flat" alt="mahamadulhasanshaikat" /> </p>
 
-- 🌱 I’m currently learning **Flutter, Python & NextJS.**
-
-- 👨‍💻 All of my projects are available at <a href="https://mhshaikat.vercel.app/" target="_blank">mhshaikat.vercel.app</a>
-
+- 🌱 I’m currently learning **NextJS.**
+- 🚀 Explore my portfolio: [mhshaikat.vercel.app](https://mhshaikat.vercel.app/)
 - 📫 How to reach me **md.shaikat95@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
