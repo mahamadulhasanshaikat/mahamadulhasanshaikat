@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **NextJS.**
 - 🚀 Explore my portfolio: [mhshaikat.vercel.app](https://mhshaikat.vercel.app/)
-- 📫 How to reach me **md.shaikat95@gmail.com**
+- 📫 How to reach me **md.shaikat.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
