@@ -45,6 +45,11 @@
     <img src="https://skillicons.dev/icons?i=postgres" height="45" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)"/>
   </a>
 
+ <!-- Firebase -->
+  <a href="https://firebase.google.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=firebase" height="45" alt="Firebase"/>
+  </a>
+
   <!-- REST API -->
   <a href="#">
     <img src="https://skillicons.dev/icons?i=postman" height="45" title="REST API" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)"/>
@@ -61,15 +66,12 @@
 
 ### 🌍 Most Used Languages
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahamadulhasanshaikat&layout=compact&theme=tokyonight)](https://github.com/mahamadulhasanshaikat)
-
 > 💡 These are the programming languages I use most across my public repositories.
 
 ### 📈 GitHub Stats
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahamadulhasanshaikat&show_icons=true&theme=tokyonight)](https://github.com/mahamadulhasanshaikat)
-
 > 🚀 A quick overview of my GitHub activity, contributions, repositories, and achievements.
 
 ### 🔥 GitHub Streak
 [![GitHub Streak](https://streak-stats.demolab.com?user=mahamadulhasanshaikat&theme=tokyonight)](https://github.com/mahamadulhasanshaikat)
-
 > ⚡ My current contribution streak, showing consistency and commitment to coding.
