@@ -12,13 +12,48 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/md-mahamadul-hasan-shaikat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-mahamadul-hasan-shaikat" height="30" width="40" /></a>
-<a href="https://fb.com/md.mahamadul.hasan.shaikat5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="md.mahamadul.hasan.shaikat5" height="30" width="40" /></a>
-<a href="https://instagram.com/md_mahamadul_hasan_shaikat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="md_mahamadul_hasan_shaikat" height="30" width="40" /></a>
+  <!-- LinkedIn -->
+  <a href="https://linkedin.com/in/md-mahamadul-hasan-shaikat" target="_blank">
+    <img
+      align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="LinkedIn"
+      height="30"
+      width="40"
+    />
+  </a>
+
+  <!-- Facebook -->
+  <a href="https://fb.com/md.mahamadul.hasan.shaikat5" target="_blank">
+    <img
+      align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
+      alt="Facebook"
+      height="30"
+      width="40"
+    />
+  </a>
+
+  <!-- Instagram -->
+  <a href="https://instagram.com/md_mahamadul_hasan_shaikat" target="_blank">
+    <img
+      align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+      alt="Instagram"
+      height="30"
+      width="40"
+    />
+  </a>
+
 </p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left" style="display: flex; gap: 15px; flex-wrap: wrap; align-items: center;">
+<!-- Dart -->
+<a href="https://dart.dev/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=dart" height="45" alt="Dart"/>
+</a>
 
   <!-- Python -->
   <a href="https://www.python.org" target="_blank">
