@@ -110,15 +110,20 @@
 ## 📊 GitHub Statistics
 
 ### 🌍 Most Used Languages
-[![Top Languages](https://github-readme-stats-six-neon-39.vercel.app/api/top-langs/?username=mahamadulhasanshaikat&layout=compact&theme=tokyonight)](https://github.com/mahamadulhasanshaikat)
+[![Top Languages](https://github-readme-stats-six-neon-39.vercel.app/api/top-langs/?username=mahamadulhasanshaikat&layout=compact&theme=tokyonight&cache_seconds=1800)](https://github.com/mahamadulhasanshaikat)
 
 > 💡 These are the programming languages I use most across my public repositories.
 
+---
+
 ### 📈 GitHub Stats
-[![GitHub Stats](https://github-readme-stats-six-neon-39.vercel.app/api?username=mahamadulhasanshaikat&show_icons=true&theme=tokyonight)](https://github.com/mahamadulhasanshaikat)
+[![GitHub Stats](https://github-readme-stats-six-neon-39.vercel.app/api?username=mahamadulhasanshaikat&show_icons=true&theme=tokyonight&cache_seconds=1800)](https://github.com/mahamadulhasanshaikat)
 
 > 🚀 A quick overview of my GitHub activity, contributions, repositories, and achievements.
 
+---
+
 ### 🔥 GitHub Streak
 [![GitHub Streak](https://streak-stats.demolab.com?user=mahamadulhasanshaikat&theme=tokyonight)](https://github.com/mahamadulhasanshaikat)
+
 > ⚡ My current contribution streak, showing consistency and commitment to coding.
