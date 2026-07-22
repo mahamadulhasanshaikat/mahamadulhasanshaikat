@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahamadulhasanshaikat&label=Profile%20views&color=0e75b6&style=flat" alt="mahamadulhasanshaikat" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://mhshaikat.vercel.app/](https://mhshaikat.pages.dev/)
+- 👨‍💻 All of my projects are available at [https://mhshaikat.pages.dev/](https://mhshaikat.pages.dev/)
 - 💬 Ask me about **| Flutter | Next.js | Python |**
 - 📫 How to reach me **md.shaikat.dev@gmail.com**
 
