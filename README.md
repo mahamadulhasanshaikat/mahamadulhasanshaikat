@@ -124,6 +124,6 @@
 ---
 
 ### 🔥 GitHub Streak
-[![GitHub Streak](https://streak-stats.demolab.com?user=mahamadulhasanshaikat&theme=tokyonight&hide_border=true&border_radius=10)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=mahamadulhasanshaikat&theme=dark&hide_border=true&short_numbers=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 > ⚡ My current contribution streak, showing consistency and commitment to coding.
