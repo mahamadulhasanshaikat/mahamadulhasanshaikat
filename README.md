@@ -124,20 +124,6 @@
 ---
 
 ### 🔥 GitHub Streak
-[![GitHub Streak](https://streak-stats.demolab.com?user=mahamadulhasanshaikat&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=mahamadulhasanshaikat&theme=tokyonight&hide_border=true&border_radius=10)](https://git.io/streak-stats)
 
 > ⚡ My current contribution streak, showing consistency and commitment to coding.
-
----
-
-## 🏆 GitHub Trophies
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=mahamadulhasanshaikat&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10)](https://github.com/mahamadulhasanshaikat)
-
-> 🏅 A collection of achievements and milestones earned through my GitHub contributions.
-
----
-
-## 📈 Contribution Graph
-[![Shaikat's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mahamadulhasanshaikat&theme=tokyo-night&hide_border=true&area=true)](https://github.com/mahamadulhasanshaikat)
-
-> 📊 Visual representation of my coding activity and contribution history.
