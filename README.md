@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahamadulhasanshaikat&label=Profile%20views&color=0e75b6&style=flat" alt="mahamadulhasanshaikat" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://mhshaikat.pages.dev/](https://mhshaikat.pages.dev/)
-- 💬 Ask me about **| Flutter | Next.js | Python |**
+- 💬 Ask me about **| Flutter | Django | Python |**
 - 📫 How to reach me **md.shaikat.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -65,10 +65,10 @@
     <img src="https://skillicons.dev/icons?i=flutter" height="45" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)"/>
   </a>
 
-  <!-- Next.js -->
-  <a href="https://nextjs.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=nextjs" height="45" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)"/>
-  </a>
+ <!-- Django -->
+<a href="https://www.djangoproject.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=django" height="45" style="transition: transform 0.3s;"   onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
+</a>
 
   <!-- Tailwind CSS -->
 <a href="https://tailwindcss.com/" target="_blank">
@@ -124,6 +124,20 @@
 ---
 
 ### 🔥 GitHub Streak
-[![GitHub Streak](https://streak-stats.demolab.com?user=mahamadulhasanshaikat)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=mahamadulhasanshaikat&theme=tokyonight)](https://git.io/streak-stats)
 
 > ⚡ My current contribution streak, showing consistency and commitment to coding.
+
+---
+
+## 🏆 GitHub Trophies
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=mahamadulhasanshaikat&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10)](https://github.com/mahamadulhasanshaikat)
+
+> 🏅 A collection of achievements and milestones earned through my GitHub contributions.
+
+---
+
+## 📈 Contribution Graph
+[![Shaikat's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mahamadulhasanshaikat&theme=tokyo-night&hide_border=true&area=true)](https://github.com/mahamadulhasanshaikat)
+
+> 📊 Visual representation of my coding activity and contribution history.
