@@ -124,6 +124,6 @@
 ---
 
 ### 🔥 GitHub Streak
-[![GitHub Streak](https://streak-stats.demolab.com?user=mahamadulhasanshaikat&theme=tokyonight)](https://github.com/mahamadulhasanshaikat)
+[![GitHub Streak](https://github-readme-streak-two.vercel.app?user=mahamadulhasanshaikat&theme=tokyonight)](https://github.com/mahamadulhasanshaikat)
 
 > ⚡ My current contribution streak, showing consistency and commitment to coding.
