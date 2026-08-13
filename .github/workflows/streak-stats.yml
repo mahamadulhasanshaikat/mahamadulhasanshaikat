@@ -1,13 +1,14 @@
 name: Update GitHub Streak
 
 on:
+  # Profile repository-তে যেকোনো push হলে update হবে
+  push:
+
+  # প্রতিদিন backup হিসেবে একবার update হবে
   schedule:
     - cron: "0 3 * * *"
 
-  push:
-    paths:
-      - ".github/workflows/streak-stats.yml"
-
+  # চাইলে manually update করা যাবে
   workflow_dispatch:
 
 jobs:
