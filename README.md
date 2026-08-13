@@ -124,6 +124,6 @@
 ---
 
 ### 🔥 GitHub Streak
-![GitHub Streak](./profile/streak.svg)
+![GitHub Streak](./profile/streak.svg?v=2)
 
 > ⚡ My current contribution streak, showing consistency and commitment to coding.
