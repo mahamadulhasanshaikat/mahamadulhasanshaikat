@@ -65,6 +65,14 @@
     <img src="https://skillicons.dev/icons?i=flutter" height="45" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)"/>
   </a>
 
+  <!-- Next.js -->
+<a href="https://nextjs.org/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=nextjs" height="45"
+       style="transition: transform 0.3s;"
+       onmouseover="this.style.transform='scale(1.2)'"
+       onmouseout="this.style.transform='scale(1)'"/>
+</a>
+
  <!-- Django -->
 <a href="https://www.djangoproject.com/" target="_blank">
   <img src="https://skillicons.dev/icons?i=django" height="45" style="transition: transform 0.3s;"   onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
