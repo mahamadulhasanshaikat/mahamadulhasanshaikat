@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahamadulhasanshaikat&label=Profile%20views&color=0e75b6&style=flat" alt="mahamadulhasanshaikat" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://mhshaikat.pages.dev/](https://mhshaikat.pages.dev/)
-- 💬 Ask me about **| Flutter | Django | Python |**
+- 💬 Ask me about **| Flutter | Next.js | Python |**
 - 📫 How to reach me **md.shaikat.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -131,7 +131,8 @@
 
 ---
 
-### 🔥 GitHub Streak
-![GitHub Streak](./profile/streak.svg?v=2)
+### 🔥 GitHub Contribution Streak
 
-> ⚡ My current contribution streak, showing consistency and commitment to coding.
+[![GitHub Streak](https://streak-stats.demolab.com?user=mahamadulhasanshaikat&theme=tokyonight)](https://git.io/streak-stats)
+
+> ⚡ Showcasing my coding consistency, daily contributions, and dedication to continuous learning.
